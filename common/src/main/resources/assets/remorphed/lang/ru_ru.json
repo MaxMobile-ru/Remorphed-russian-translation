@@ -17,7 +17,7 @@
   "remorphed.help.config_label": "Настройка мода Remorphed",
   "remorphed.help.config_description": "Откройте конфигурационный файл /config/remorphed.json5 для того, чтобы настроить любой элемент мода.",
   "remorphed.help.credits_label": "Титры",
-  "remorphed.help.credits_general": "Общая работа над модом: To_Craft, Chronos_Sacaria, Draylar, x64architecture, Pyrofab, AllanChain, James103, lawleagle",
+  "remorphed.help.credits_general": "Работа над модом: To_Craft, Chronos_Sacaria, Draylar, x64architecture, Pyrofab, AllanChain, James103, lawleagle",
   "remorphed.help.credits_translators": "Перевод: To_Craft, yichifauzi, shap-po, Feitan_Portor, MaxMobile-ru.",
   "remorphed.help.return": "Нажмите любую кнопку, чтобы закрыть это меню.",
   "remorphed.hasShape_success": "%s разблокировал форму \"%s\".",
